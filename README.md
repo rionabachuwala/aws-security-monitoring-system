@@ -1,5 +1,5 @@
 # aws-security-monitoring-system
-AWS Cloud Security Monitoring System using CloudTrail, CloudWatch, SNS, and Secrets Manager
+Built a cloud security monitoring solution that detects secret access events and generates automated alerts using AWS CloudTrail, CloudWatch, SNS, and Secrets Manager.
 
 # AWS Cloud Security Monitoring System
 
